@@ -4,7 +4,7 @@ This is a JavaScript + NodeJs application, created to register personal goals an
 
 ## How to run
 
-### Please follow the bellow instructions to run the Metrics App in your local environment
+### Please follow the bellow instructions to run the Goals App in your local environment
 
 First, install the node dependencies, then start the app, running bellow command:
 
