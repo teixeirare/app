@@ -1,10 +1,10 @@
 [
   {
-    "value": "Andar",
-    "checked": false
+    "value": "Fazer caminhada 1 vez ao dia",
+    "checked": true
   },
   {
-    "value": "Correr",
+    "value": "Beber 2 litros de água todos dos dias",
     "checked": false
   }
 ]
